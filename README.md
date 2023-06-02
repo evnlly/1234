@@ -32,8 +32,3 @@ sudo apt install latexmk
 sudo apt install texlive-lang-cyrillic
 make latexpdf
 ```
-
-
-# `Title`
-`# Title`
-`#` Title
